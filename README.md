@@ -7,18 +7,18 @@ Customer churn occurs when customers or subscribers stop doing business with a c
 
 ## 🔴 What are the different Churn Scenarios in Telecome sector ?
 
-  1.Tariff Plan Churn.(Rs500 to Rs100).
-  2.Service Churn(Weekly /Monthly Churn).
-  3.Product Churn(Postpain-Prepaid).
-  4.Usage Churn( Inactive/No-usage).
-  5.Subscriber Churn(Move to Different Profider).
+  1. Tariff Plan Churn.(Rs500 to Rs100).
+  2. Service Churn(Weekly /Monthly Churn).
+  3. Product Churn(Postpain-Prepaid).
+  4. Usage Churn( Inactive/No-usage).
+  5. Subscriber Churn(Move to Different Profider).
   
 ## 🔴 What are the different Churn Segments ?
 
-   1.Conditionally loyal subscriber.
-   2.Conditional Churner.
-   3.Lifestyle Migrator.
-   4.Unsatisfied Churner.
+   1. Conditionally loyal subscriber.
+   2. Conditional Churner.
+   3. Lifestyle Migrator.
+   4. Unsatisfied Churner.
    
  ## 🔴 Key Drivers that influence Churn?
  
@@ -29,10 +29,10 @@ Customer churn occurs when customers or subscribers stop doing business with a c
    5. Customer care quality.
 
  ## 🔴 Key drivers for customer loyality.
-   1.Offers and services.
-   2.Price
-   3.Quality of product and services.
-   4.Quality of customer services.
-   5.Length of contract period.
-   6.Perception of telcome brand.
-   7.Marketing Programmers and compaigns.
+   1. Offers and services.
+   2. Price
+   3. Quality of product and services.
+   4. Quality of customer services.
+   5. Length of contract period.
+   6. Perception of telcome brand.
+   7. Marketing Programmers and compaigns.
