@@ -21,6 +21,7 @@ Customer churn occurs when customers or subscribers stop doing business with a c
    4.Unsatisfied Churner.
    
  ## 🔴 Key Drivers that influence Churn?
+ 
    1. Handset loss/Upgrade.
    2. Cost of service/Competitor pricing.
    3. Network quality.
